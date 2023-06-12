@@ -52,4 +52,3 @@ def process_annotations(df,realPath,outerPath):
 
 
 process_annotations(df,REAL_PATH,OUTER_PATH)
-print('hello')
