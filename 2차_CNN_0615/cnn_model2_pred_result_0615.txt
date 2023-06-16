@@ -1,0 +1,21 @@
+{'Bonnet_c': {'class_index': 0, 'total_count': 352, 'correct_count': 61}, 'Bonnet_s': {'class_index': 9, 'total_count': 29, 'correct_count': 5}, 
+
+'Front bumper_c': {'class_index': 9, 'total_count': 1500, 'correct_count': 426}, 'Front bumper_s': {'class_index': 9, 'total_count': 787, 'correct_count': 202},
+
+ 'Front door_c': {'class_index': 2, 'total_count': 386, 'correct_count': 34}, 'Front door_s': {'class_index': 2, 'total_count': 74, 'correct_count': 5}, 
+
+'Head lights_c': {'class_index': 2, 'total_count': 510, 'correct_count': 56}, 'Head lights_s': {'class_index': 9, 'total_count': 40, 'correct_count': 8}, 
+
+'Rear bumper_c': {'class_index': 2, 'total_count': 957, 'correct_count': 59}, 'Rear bumper_s': {'class_index': 9, 'total_count': 633, 'correct_count': 315}, 
+
+'Rear door_c': {'class_index': 3, 'total_count': 407, 'correct_count': 19}, 'Rear door_s': {'class_index': 11, 'total_count': 114, 'correct_count': 18}, 
+
+'Rear lamp_c': {'class_index': 9, 'total_count': 241, 'correct_count': 95}, 'Rear lamp_s': {'class_index': 10, 'total_count': 12, 'correct_count': 1}, 
+
+'Rocker panel_c': {'class_index': 14, 'total_count': 389, 'correct_count': 40}, 'Rocker panel_s': {'class_index': 9, 'total_count': 56, 'correct_count': 19}, 
+
+'Side mirror_c': {'class_index': 5, 'total_count': 123, 'correct_count': 8}, 'Side mirror_s': {'class_index': 2, 'total_count': 86, 'correct_count': 5}, 
+
+'Trunk lid_c': {'class_index': 18, 'total_count': 424, 'correct_count': 26}, 'Trunk lid_s': {'class_index': 9, 'total_count': 85, 'correct_count': 28}, 
+
+'Wheel_c': {'class_index': 20, 'total_count': 267, 'correct_count': 104}, 'Wheel_s': {'class_index': 20, 'total_count': 33, 'correct_count': 11}}
